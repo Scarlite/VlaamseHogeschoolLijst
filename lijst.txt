@@ -1,0 +1,6 @@
+*.vives.be
+*.howest.be
+*.ugent.be
+*.hogent.be
+hogent.be
+*.ap.be
