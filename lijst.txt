@@ -4,3 +4,4 @@
 *.hogent.be
 hogent.be
 *.ap.be
+*.kdg.be
